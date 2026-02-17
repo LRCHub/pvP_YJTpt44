@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hypnotize",
+  "base_artist": "System Of A Down",
+  "createdAt": "2026-02-17T11:02:01.727820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hypnotize the Moon",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/01_Hypnotize_the_Moon_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hypnotize the Moon (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/02_Hypnotize_the_Moon_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hypnotize",
+      "artist": "Mikey The Magician feat. Pouya & Germ",
+      "has_synced": false,
+      "path": "select/03_Hypnotize_Mikey_The_Magician_feat._Pouya_&_Germ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hypnotize (feat. Pouya & Germ)",
+      "artist": "Mikey the Magician",
+      "has_synced": false,
+      "path": "select/04_Hypnotize_(feat._Pouya_&_Germ)_Mikey_the_Magician.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hypnotize",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": false,
+      "path": "select/05_Hypnotize_The_Notorious_B.I.G..txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hypnotize",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/06_Hypnotize_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hypnotize U",
+      "artist": "N.E.R.D",
+      "has_synced": true,
+      "path": "select/07_Hypnotize_U_N.E.R.D.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hypnotize U",
+      "artist": "N.E.R.D.",
+      "has_synced": true,
+      "path": "select/08_Hypnotize_U_N.E.R.D..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hypnotize",
+      "artist": "Scritti Politti",
+      "has_synced": true,
+      "path": "select/09_Hypnotize_Scritti_Politti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hypnotize (Short Version)",
+      "artist": "Scritti Politti",
+      "has_synced": false,
+      "path": "select/10_Hypnotize_(Short_Version)_Scritti_Politti.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hypnotize Me",
+      "artist": "Wang Chung",
+      "has_synced": false,
+      "path": "select/11_Hypnotize_Me_Wang_Chung.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hypnotize Me",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/12_Hypnotize_Me_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hypnotize Me (insomnia mix)",
+      "artist": "Wang Chung",
+      "has_synced": false,
+      "path": "select/13_Hypnotize_Me_(insomnia_mix)_Wang_Chung.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hypnotize",
+      "artist": "Natalie Walker",
+      "has_synced": false,
+      "path": "select/14_Hypnotize_Natalie_Walker.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "M-Town Representatives (feat. Hypnotize Camp Posse)",
+      "artist": "Gangsta Boo",
+      "has_synced": false,
+      "path": "select/15_M-Town_Representatives_(feat._Hypnotize_Camp_Posse)_Gangsta_Boo.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fuckin' With The Best (feat. Hypnotize Camp Posse)",
+      "artist": "Project Pat",
+      "has_synced": false,
+      "path": "select/16_Fuckin'_With_The_Best_(feat._Hypnotize_Camp_Posse)_Project_Pat.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Posse Song (feat. Hypnotize Camp Posse)",
+      "artist": "Project Pat",
+      "has_synced": false,
+      "path": "select/17_Posse_Song_(feat._Hypnotize_Camp_Posse)_Project_Pat.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hypnotize",
+      "artist": "System Of A Down",
+      "has_synced": false,
+      "path": "select/pl_01_Hypnotize_System_Of_A_Down.txt"
+    }
+  ]
+}
